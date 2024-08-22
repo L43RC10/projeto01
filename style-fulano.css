@@ -5,3 +5,12 @@ h1 {
 p {
     color: #fff;
 }
+
+a {
+    font-weight: bold;
+}
+
+
+div {
+    border-color: orangered;
+}
